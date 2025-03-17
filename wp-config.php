@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'la vie des planete' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'root' );(())
 
 /** Database password */
 define( 'DB_PASSWORD', '' );
